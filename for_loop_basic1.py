@@ -16,7 +16,6 @@
 
 # 1)
 
-from re import I
 
 
 for i in range(0,151):
